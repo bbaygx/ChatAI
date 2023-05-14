@@ -1,4 +1,4 @@
-# ChatAI
+# ChatAI (Tahab Pengembangan!)
 Project ChatAI adalah sebuah aplikasi chat berbasis web yang menggunakan kecerdasan buatan (AI) untuk merespons dan berinteraksi dengan pengguna. Aplikasi ini dirancang untuk memberikan pengalaman berkomunikasi yang mirip dengan percakapan antara manusia dengan sistem AI.
 
 Fitur utama dari ChatAI meliputi:
